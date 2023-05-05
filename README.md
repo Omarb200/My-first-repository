@@ -1,2 +1,2 @@
 # My-first-repository
-Basic programs in Java
+Basic programs in Java 👨‍💻
